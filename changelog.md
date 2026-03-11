@@ -1,6 +1,15 @@
 # Space Ahead ✨ Changelog
 
-## v0.11.6 (Latest) - Feb 26, 2026
+## v0.12.0 (Latest) - Mar 11, 2026
+
+We've upgraded to Astro v6! 🥳
+
+### Updates
+
+- Dependency updates
+- Updated README.md
+
+## v0.11.6 - Feb 26, 2026
 
 This is a monthly update release intended to keep the dependencies up-to-date, addressing any security issues and any user reported issues.
 

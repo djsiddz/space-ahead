@@ -1,7 +1,7 @@
 {
   "name": "space-ahead",
   "type": "module",
-  "version": "0.11.6",
+  "version": "0.12.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro build && astro preview",
@@ -10,13 +10,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/preact": "^4.1.3",
-    "@astrojs/rss": "4.0.15",
-    "@astrojs/sitemap": "^3.7.0",
+    "@astrojs/preact": "^5.0.0",
+    "@astrojs/rss": "4.0.17",
+    "@astrojs/sitemap": "^3.7.1",
     "@swup/astro": "^1.8.0",
     "@tailwindcss/vite": "^4.2.1",
-    "astro": "^5.18.0",
-    "preact": "^10.28.4",
+    "astro": "^6.0.2",
+    "preact": "^10.29.0",
     "sharp": "^0.34.5",
     "tailwindcss": "^4.2.1"
   },

@@ -1,14 +1,16 @@
-# Space Ahead ✨ - An Astro v5 Personal Blog Template
+# Space Ahead ✨ - An Astro v6 Personal Blog Template
 
 A minimal space-inspired personal blog template, created by Siddhesh Thadeshwar.
 
+> ## Now ready for Astro v6. 🥳
+
 ![Space Ahead ✨](/space-ahead-preview.jpeg)
 
-See the [demo](https://djsiddz.github.io/space-ahead) to know more. | View on Astro's Theme Directory [here](https://astro.build/themes/details/space-ahead/).
+See the [demo](https://djsiddz.github.io/space-ahead) to know more. | View on Astro's [Theme Directory](https://astro.build/themes/details/space-ahead/).
 
 ## 🆕 Real-like Demo
 
-View **Mumbai Stories** - [Samay Anand's Blog](https://djsiddz.github.io/samay-anand)! 🏏 | Source Code [here](https://github.com/djsiddz/samay-anand).
+View **Mumbai Stories** - [Samay Anand's Blog](https://djsiddz.github.io/samay-anand)! 🏏 |  [View Source Code](https://github.com/djsiddz/samay-anand).
 
 ## Theme Features
 
