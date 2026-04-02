@@ -7,8 +7,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://djsiddz.github.io",
-  base: "/space-ahead",
+  site: process.env.SITE_URL ?? "https://your-site.netlify.app",
   integrations: [
     swup({
       theme: ["overlay", { direction: "to-top" }],
