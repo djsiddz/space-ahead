@@ -69,8 +69,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://example.com',
-    title: 'Space Ahead',
-    description: 'A minimal space-inspired personal blog template built with Astro.js and Tailwind CSS, by Siddhesh Thadeshwar',
+    title: 'SDG',
+    description: 'A minimal NoSQL-inspired personal blog template built with Astro.js and Tailwind CSS, by sonam',
     image: {
         src: '/space-ahead-preview.jpeg',
         alt: 'Space Ahead ✨ - A minimal space-inspired personal blog template, created by Siddhesh Thadeshwar.'
@@ -106,19 +106,19 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: withBase('/contact')
         },
-        {
-            text: 'RSS Feed',
-            href: withBase('/rss.xml')
-        },
-                {
-            text: 'Sitemap',
-            href: withBase('/sitemap-index.xml')
-        }
+        // {
+        //     text: 'RSS Feed',
+        //     href: withBase('/rss.xml')
+        // },
+        //         {
+        //     text: 'Sitemap',
+        //     href: withBase('/sitemap-index.xml')
+        // }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Github',
+            href: 'https://github.com/SDGV2734'
         },
         {
             text: 'Instagram',
@@ -130,9 +130,9 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        eyebrowText: 'Galaxy of Adventures',
-        title: 'Space Ahead ✨',
-        text: "Written by Astro-naut Sid, a space explorer at Beyond Earth.",
+        eyebrowText: 'Join the Adventures',
+        title: 'SDG ✨',
+        text: "Written by Sonam Dorji Ghalley, join my journey.",
         image: {
             src: '/assets/images/pixeltrue-space-discovery.svg',
             alt: 'A person sitting at a desk in front of a computer'
@@ -142,15 +142,12 @@ const siteConfig: SiteConfig = {
                 text: 'Read Now',
                 href: withBase('/blog')
             },
-            {
-                text: 'Subscribe',
-                href: '#subscribe'
-            }
+            
         ]
     },
     about: {
         title: 'About',
-        text: 'Space Ahead is a blog about space exploration and travel. It is written by Astro-naut Sid, a space explorer at Beyond Earth. Sid is known for his love of adventure and his insatiable curiosity about the universe. He has explored countless planets, discovered new life forms, and made friends with aliens along the way. 🚀',
+        text: "Hi there! I’m Sonam Dorji, a undergradute software engineer and data enthusiast who spent a little too much time trying to force unstructured data into rigid tables before finally seeing the light.I created this blog because, while SQL is the reliable old guard of the data world, NoSQL is where things get fast, flexible, and—let’s be honest—a little bit wild. Whether you're scaling a massive application or just trying to figure out why your document store isn't behaving, I’m here to help you navigate the world of 'Not Only SQL.' ",
     },
     contactInfo: {
         title: 'Contact',
@@ -158,7 +155,7 @@ const siteConfig: SiteConfig = {
         email: {
             text: "Drop me an email and I’ll do my best to respond as soon as possible.",
             href: "mailto:example@example.com",
-            email: "example@example.com"
+            email: "sonamdorjighalley2002@gmail.com"
         },
         socialProfiles: [
             {
@@ -171,18 +168,18 @@ const siteConfig: SiteConfig = {
             },
             {
                 text: "GitHub",
-                href: "https://github.com/"
+                href: "https://github.com/SDGV2734.git"
             }
         ]
     },
-    subscribe: {
-        title: 'Subscribe to Space Ahead',
-        text: 'One update per week. All the latest stories in your inbox.',
-        formUrl: '#'
-    },
-    blog: {
-        description: "Read about my space adventures, explorations and the aliens I've met on my journeys."
-    },
+    // subscribe: {
+    //     title: 'Subscribe to Space Ahead',
+    //     text: 'One update per week. All the latest stories in your inbox.',
+    //     formUrl: '#'
+    // },
+    // blog: {
+    //     description: "Read about my space adventures, explorations and the aliens I've met on my journeys."
+    // },
     postsPerPage: 2,
     recentPostLimit: 3
 };
