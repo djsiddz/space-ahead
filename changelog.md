@@ -1,6 +1,15 @@
 # Space Ahead ✨ Changelog
 
-## v0.14.0 (Latest) - May 28, 2026
+## v0.15.0 (Latest) - June 29, 2026
+
+Astro v7.0 upgrade and dependency refresh.
+
+### Updates
+
+- Upgraded Astro to v7.0.3 and all other dependencies to their latest versions.
+- Fixed TypeScript type error in `src/pages/rss.xml.ts` by explicitly typing the `context` parameter using `APIContext`.
+
+## v0.14.0 - May 28, 2026
 
 Dependency refresh for the current Astro stack.
 

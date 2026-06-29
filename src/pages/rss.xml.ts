@@ -1,9 +1,10 @@
+import type { APIContext } from "astro";
 import rss from "@astrojs/rss";
 import { withBase } from "../utils/helpers";
 import { getCollection } from "astro:content";
 import siteConfig from "../site.config";
 
-export async function GET(context) {
+export async function GET(context: APIContext) {
   const blog = await getCollection("blogs");
   return rss({
     title: siteConfig.title,
