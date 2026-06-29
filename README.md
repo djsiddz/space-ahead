@@ -1,8 +1,8 @@
-# Space Ahead ✨ - An Astro v6 Personal Blog Template
+# Space Ahead ✨ - An Astro v7 Personal Blog Template
 
 A minimal space-inspired personal blog template, created by Siddhesh Thadeshwar.
 
-> ## Now ready for Astro v6. 🥳
+> ## Now ready for Astro v7. 🥳
 
 ![Space Ahead ✨](/space-ahead-preview.jpeg)
 
