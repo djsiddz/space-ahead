@@ -1,6 +1,17 @@
 # Space Ahead ✨ Changelog
 
-## v0.15.0 (Latest) - June 29, 2026
+## v0.16.0 (Latest) - August 26, 2026
+
+Dependency updates for Astro, Preact, Tailwind CSS, and dev toolchain while maintaining TypeScript v6 compatibility.
+
+### Updates
+
+- Upgraded Astro to v7.2.6, `@astrojs/preact` to v6.0.4, `@astrojs/rss` to v4.0.19, and Preact to v10.29.8.
+- Upgraded `@tailwindcss/vite` and `tailwindcss` to v4.3.3.
+- Upgraded Prettier to v3.9.6, `prettier-plugin-tailwindcss` to v0.8.1, and Sharp to v0.35.3.
+- Retained TypeScript v6.0.3 pending official Astro support for TypeScript 7.
+
+## v0.15.0 - June 29, 2026
 
 Astro v7.0 upgrade and dependency refresh.
 
