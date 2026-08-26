@@ -2,7 +2,7 @@
 
 A minimal space-inspired personal blog template, created by Siddhesh Thadeshwar.
 
-> ## Now ready for Astro v7. 🥳
+> ## Now ready for Astro v7.2. 🥳
 
 ![Space Ahead ✨](/space-ahead-preview.jpeg)
 
@@ -14,7 +14,8 @@ View **Mumbai Stories** - [Samay Anand's Blog](https://djsiddz.github.io/samay-a
 
 ## Theme Features
 
-- ✅ Tailwind CSS
+- ✅ Astro v7.2 static site generation
+- ✅ Tailwind CSS v4
 - ✅ Mobile-first responsive layout
 - ✅ Dark and light color mode
 - ✅ Custom About, Contact & 404 pages
@@ -36,6 +37,7 @@ View **Mumbai Stories** - [Samay Anand's Blog](https://djsiddz.github.io/samay-a
 
 ## Template Integrations
 
+- Astro v7.2 & TypeScript v6
 - Tailwind v4 via Vite Plugin as per latest Astro docs
 - Swup.js for View Transitions
 - RSS: [@astrojs/rss](https://docs.astro.build/en/guides/rss/)

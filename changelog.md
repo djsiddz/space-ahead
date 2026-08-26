@@ -1,6 +1,14 @@
 # Space Ahead ✨ Changelog
 
-## v0.16.0 (Latest) - August 26, 2026
+## v0.16.1 (Latest) - August 26, 2026
+
+Documentation updates announcing Astro v7.2 readiness and template features.
+
+### Updates
+
+- Updated `README.md` to highlight Astro v7.2 and Tailwind CSS v4 template compatibility.
+
+## v0.16.0 - August 26, 2026
 
 Dependency updates for Astro, Preact, Tailwind CSS, and dev toolchain while maintaining TypeScript v6 compatibility.
 
