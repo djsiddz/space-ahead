@@ -1,5 +1,14 @@
 # Space Ahead ✨ Changelog
 
+## v0.17.0 (Latest) - September 24, 2026
+
+September dependency maintenance release.
+
+### Updates
+
+- Updated Astro to v7.3.4, the Astro Preact integration to v6.0.5, Astro sitemap to v3.7.4, Prettier to v3.9.9, and Sharp to v0.35.4.
+- Kept TypeScript at v6.0.3 while deferring the TypeScript 7 upgrade.
+
 ## v0.16.1 (Latest) - August 26, 2026
 
 Documentation updates announcing Astro v7.2 readiness and template features.

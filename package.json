@@ -1,7 +1,7 @@
 {
   "name": "space-ahead",
   "type": "module",
-  "version": "0.16.1",
+  "version": "0.17.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro build && astro preview",
@@ -10,18 +10,18 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/preact": "^6.0.4",
+    "@astrojs/preact": "^6.0.5",
     "@astrojs/rss": "4.0.19",
-    "@astrojs/sitemap": "^3.7.3",
+    "@astrojs/sitemap": "^3.7.4",
     "@swup/astro": "^1.8.0",
     "@tailwindcss/vite": "^4.3.3",
-    "astro": "^7.2.6",
+    "astro": "^7.3.4",
     "preact": "^10.29.8",
-    "sharp": "^0.35.3",
+    "sharp": "^0.35.4",
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
-    "prettier": "^3.9.6",
+    "prettier": "^3.9.9",
     "prettier-plugin-tailwindcss": "^0.8.1",
     "typescript": "^6.0.3"
   },
