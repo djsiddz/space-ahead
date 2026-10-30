@@ -1,6 +1,16 @@
 # Space Ahead ✨ Changelog
 
-## v0.17.0 (Latest) - September 24, 2026
+## v0.18.0 (Latest) - October 28, 2026
+
+October dependency maintenance release.
+
+### Updates
+
+- Upgraded Preact to v11.1.0 with `@astrojs/preact` v6.1.1.
+- Updated Astro to v7.4.4, Sharp to v0.35.5, and Prettier to v3.9.10.
+- Kept TypeScript at v6.0.3 while deferring the TypeScript 7 upgrade pending official Astro toolchain support.
+
+## v0.17.0 - September 24, 2026
 
 September dependency maintenance release.
 
