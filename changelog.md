@@ -15,6 +15,7 @@ Security update release addressing known vulnerabilities in the dependency tree,
 - Upgraded `@astrojs/preact` to v6.1.6, `@astrojs/sitemap` to v3.7.6, and Preact to v11.2.0.
 - Upgraded `@tailwindcss/vite` and `tailwindcss` to v4.3.5, and Prettier to v3.10.1.
 - Kept TypeScript at v6.0.3 while deferring the TypeScript 7 upgrade pending official Astro toolchain support.
+- Updated `README.md` to advertise Astro v7.4 compatibility.
 
 ## v0.18.0 - October 28, 2026
 
