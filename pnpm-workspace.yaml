@@ -3,3 +3,10 @@ allowBuilds:
   esbuild: true
   sharp: true
   swup: true
+
+# GHSA-5c6j-r48x-rmvq / GHSA-m5mm-p8h7-m29v: @swup/plugin@3 pins the
+# deprecated rollup-plugin-terser, which pulls in a vulnerable
+# serialize-javascript. Force the patched release; the serialize() API is
+# unchanged and rollup-plugin-terser only runs inside microbundle's build.
+overrides:
+  serialize-javascript: ^7.1.4
